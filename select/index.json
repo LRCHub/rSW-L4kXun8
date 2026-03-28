@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Finally Moving",
+  "base_artist": "Pretty Lights",
+  "createdAt": "2026-03-28T14:06:39.933686Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Finally Moving Remix",
+      "artist": "Pretty Lights",
+      "has_synced": false,
+      "path": "select/01_Finally_Moving_Remix_Pretty_Lights.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Finally Moving (remix)",
+      "artist": "Pretty Lights",
+      "has_synced": false,
+      "path": "select/02_Finally_Moving_(remix)_Pretty_Lights.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Finally Moving",
+      "artist": "Pretty Lights",
+      "has_synced": true,
+      "path": "select/03_Finally_Moving_Pretty_Lights.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Finally Moving",
+      "artist": "Pretty Lights",
+      "has_synced": true,
+      "path": "select/04_Finally_Moving_Pretty_Lights.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Pretty Lights - Finally Moving",
+      "artist": "AAA FM",
+      "has_synced": true,
+      "path": "select/05_Pretty_Lights_-_Finally_Moving_AAA_FM.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Finally Moving",
+      "artist": "Pretty Lights",
+      "has_synced": true,
+      "path": "select/06_Finally_Moving_Pretty_Lights.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Finally-Moving",
+      "artist": "Pretty Lights",
+      "has_synced": true,
+      "path": "select/07_Finally-Moving_Pretty_Lights.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Finally Moving",
+      "artist": "Pretty Lights",
+      "has_synced": false,
+      "path": "select/pl_01_Finally_Moving_Pretty_Lights.txt"
+    }
+  ]
+}
